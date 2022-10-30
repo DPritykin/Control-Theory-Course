@@ -38,4 +38,5 @@
 2. Летов А.М. Динамика полета и управление. – М.: Наука, 1969, 359 с.
 3. Аграчев А.А., Сачков Ю.Л. Геометрическая теория управления. — М.: ФИЗМАТЛИТ, 2005. — 392 с.
 4. Ким Д.П. Теория автоматического управления: учебник: в 2 т. / Д. П. Ким. – 2-е изд., испр. и доп. – Москва: Физматлит. – 2007.
-5. Sutton RS, Barto AG. Reinforcement learning: an introduction. Second edition. Cambridge, MA: The MIT Press, [2018] | Series: Adaptive computation and machine learning series 
+5. Sutton RS, Barto AG. Reinforcement learning: an introduction. Second edition. Cambridge, MA: The MIT Press, [2018] | Series: Adaptive computation and machine learning series
+6. Sergey Ivanov Reinforcement Learning Textbook. (Конспект по обучению с подкреплением) https://arxiv.org/abs/2201.09746
